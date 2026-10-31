@@ -1,6 +1,6 @@
 {
-	"Name": "AMBUSH_v1.5 Nebula Seasonal Event",
-	"Version": 1793186395,
+	"Name": "Ambush Nebula Event",
+	"Version": 1793453121,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -62,6 +62,7 @@
 				"77",
 				"79",
 				"81",
+				"83",
 				"84",
 				"85",
 				"86",
@@ -135,6 +136,7 @@
 				"187",
 				"188",
 				"189",
+				"194",
 				"256",
 				"317",
 				"195",
@@ -291,6 +293,7 @@
 				"245",
 				"139",
 				"163",
+				"198",
 				"161"
 			],
 			"SurvivorComboPerkBans": [
@@ -313,7 +316,6 @@
 			"Name": "B+",
 			"SurvivorIndvPerkBans": [
 				"8",
-				"9",
 				"21",
 				"60",
 				"246",
@@ -324,7 +326,6 @@
 				"39",
 				"279",
 				"44",
-				"261",
 				"308",
 				"50",
 				"51",
@@ -342,7 +343,6 @@
 				"105",
 				"253",
 				"121",
-				"124",
 				"127",
 				"128",
 				"254",
@@ -350,7 +350,8 @@
 			],
 			"KillerIndvPerkBans": [
 				"139",
-				"163"
+				"163",
+				"198"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -3158,7 +3159,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"49"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
